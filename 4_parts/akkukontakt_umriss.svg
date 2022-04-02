@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16.256811mm"
+   height="23.440786mm"
+   viewBox="0 0 16.256811 23.440786"
+   version="1.1"
+   id="svg37153"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="akkukontakt_umriss.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview37155"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.1387158"
+     inkscape:cx="-131.72733"
+     inkscape:cy="57.960026"
+     inkscape:window-width="3840"
+     inkscape:window-height="2050"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs37150" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-61.982423,-81.973956)">
+    <path
+       id="rect37179"
+       style="fill:none;stroke:#000000;stroke-width:0.0694231"
+       d="m 229.07227,81.166016 c -3.31947,0 -5.99219,2.672718 -5.99219,5.992187 v 21.982417 c -13.79514,0.32236 -24.6038,12.42389 -24.77881,24.88101 l 0.23975,22.53688 c -0.0343,5.35462 8.59299,13.03729 13.03371,12.90454 l 36.84211,-0.0799 c 4.21822,-0.0843 12.20944,-8.17805 12.20003,-12.58415 l -0.15984,-26.29247 c 0.14987,-11.58977 -12.98522,-21.29456 -24.53906,-21.36589 V 87.158203 c 0,-3.319469 -2.67272,-5.992187 -5.99219,-5.992187 z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="ssccccccccsss" />
+    <path
+       id="rect37179-3"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 69.82252,82.023956 c -0.878276,0 -1.585433,0.707156 -1.585433,1.585433 v 5.816181 c -2.962158,0.02961 -6.120209,3.642222 -6.156245,5.295188 l -0.04839,6.813102 c -0.0091,1.3654 2.144404,3.8342 3.319345,3.79908 l 9.588974,0.0318 c 1.116071,-0.0223 3.250951,-2.63614 3.248461,-3.80192 l -0.06283,-6.484187 c 0.01318,-2.616433 -3.435676,-5.634185 -6.49263,-5.653058 v -5.816186 c 0,-0.878277 -0.707157,-1.585433 -1.585433,-1.585433 z"
+       sodipodi:nodetypes="ssccccccccsss" />
+  </g>
+</svg>
